@@ -23,4 +23,4 @@ Then write something substantial with this space…
 
 - Email: scasper2@stanford.edu  
 - GitHub: https://github.com/scasper2
-- LinkedIn: https://linkedin.com/in/simon-casper
+- LinkedIn: www.linkedin.com/in/simon-casper
